@@ -1,0 +1,37 @@
+body {
+  background-color: #f0f4f8;
+}
+
+marquee {
+  font-size: 1.1rem;
+}
+
+button:hover {
+  transform: scale(1.03);
+  transition: all 0.3s ease-in-out;
+}
+
+.paper {
+  border: 2px solid #cce5ff;
+  border-radius: 1.5rem;
+}
+.paper:hover {
+  border: 2px solid #cce5ff;
+  border-radius: 1.5rem;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  transition: all 0.3s ease-in-out;
+}
+
+.paper:active {
+  transform: scale(0.98);
+  transition: all 0.3s ease-in-out;
+}
+
+.paper:visited {
+  border: 2px solid #cce5ff;
+  border-radius: 1.5rem;
+}
+
+.mainui{
+  border-radius: 25px;
+}

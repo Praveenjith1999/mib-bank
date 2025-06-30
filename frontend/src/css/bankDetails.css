@@ -1,0 +1,29 @@
+.main-emp-reg{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #f0f0f0;
+    gap: 20px;
+}
+
+
+.emp-reg-1 ,.emp-reg-2{
+
+    width: 100%;
+    height: 100%;
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    display: flex;
+    flex-flow: row wrap;
+   
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
+
+
+
